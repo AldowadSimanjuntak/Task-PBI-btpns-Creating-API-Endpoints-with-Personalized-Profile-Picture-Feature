@@ -1,6 +1,6 @@
 # Task BTPN - User Profile Image Upload API
 
-## Table of Contents
+
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
@@ -40,16 +40,16 @@ To get started with this project, follow the instructions below.
 
 1. **Clone this repository:**
 
-   ```sh
+   ```
    git clone https://github.com/AldowadSimanjuntak/Task-PBI-btpns-Creating-API-Endpoints-with-Personalized-Profile-Picture-Feature.git
 ### Change to the project directory:
-cd Task-PBI-btpns-Creating-API-Endpoints-with-Personalized-Profile-Picture-Feature
+    cd Task-PBI-btpns-Creating-API-Endpoints-with-Personalized-Profile-Picture-Feature
 
 ### Install project dependencies:
 Use [Go modules](https://golang.org/ref/mod) to install project dependencies.
 
 ### Run the project:
-go run app/main.go
+    go run app/main.go
 
 The API will be accessible at http://localhost:8080.
 
